@@ -1,0 +1,9 @@
+
+.logo {
+  width: 120px;
+  height: 31px;
+  background: rgb(246, 243, 243) url('../images/logot.jpg');
+  margin: 16px 24px 16px 0;
+  float: left;
+  background-size:contain;
+  }
